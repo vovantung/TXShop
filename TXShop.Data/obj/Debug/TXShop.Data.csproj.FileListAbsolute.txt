@@ -1,0 +1,14 @@
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\TXShop.Data.dll.config
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\TXShop.Data.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\TXShop.Data.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\TXShop.Common.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\TXShop.Common.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\obj\Debug\TXShop.Data.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\obj\Debug\TXShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\obj\Debug\TXShop.Data.csproj.CopyComplete
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\obj\Debug\TXShop.Data.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Data\obj\Debug\TXShop.Data.pdb
