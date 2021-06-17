@@ -4,3 +4,9 @@ C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Common\obj\Debug\TXShop.Commo
 C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Common\obj\Debug\TXShop.Common.csproj.CoreCompileInputs.cache
 C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Common\obj\Debug\TXShop.Common.dll
 C:\Users\Vo Van Tung\Desktop\ASP.NET\TXShop\TXShop.Common\obj\Debug\TXShop.Common.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Common\bin\Debug\TXShop.Common.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Common\bin\Debug\TXShop.Common.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Common\obj\Debug\TXShop.Common.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Common\obj\Debug\TXShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Common\obj\Debug\TXShop.Common.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Common\obj\Debug\TXShop.Common.pdb
