@@ -17,7 +17,6 @@ C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\bi
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\bin\Debug\EntityFramework.xml
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\obj\Debug\TXShop.Model.csproj.AssemblyReference.cache
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\obj\Debug\TXShop.Model.csproj.CoreCompileInputs.cache
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\obj\Debug\TXShop.Model.csproj.CopyComplete
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Model\obj\Debug\TXShop.Model.dll

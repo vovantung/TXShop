@@ -59,6 +59,15 @@
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\MenuGroupRepository.cs" />
+    <Compile Include="Repository\MenuRepository.cs" />
+    <Compile Include="Repository\OrderDetailRepository.cs" />
+    <Compile Include="Repository\OrderRepository.cs" />
+    <Compile Include="Repository\PageRepository.cs" />
+    <Compile Include="Repository\PostCategoryRepository.cs" />
+    <Compile Include="Repository\PostRepository.cs" />
+    <Compile Include="Repository\ProductCategoryRepository.cs" />
+    <Compile Include="Repository\ProductRepository.cs" />
     <Compile Include="TXShopDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -75,9 +84,7 @@
       <Name>TXShop.Model</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
