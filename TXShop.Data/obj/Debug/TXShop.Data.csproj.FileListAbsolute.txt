@@ -26,3 +26,6 @@ C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Data\obj
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Data\obj\Debug\TXShop.Data.csproj.CopyComplete
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Data\obj\Debug\TXShop.Data.dll
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Data\obj\Debug\TXShop.Data.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Data\bin\Debug\TXShop.Model.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Data\bin\Debug\TXShop.Model.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Data\bin\Debug\TXShop.Model.dll.config
