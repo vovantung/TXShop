@@ -28,3 +28,5 @@ C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Service\
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Service\obj\Debug\TXShop.Service.csproj.CopyComplete
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Service\obj\Debug\TXShop.Service.dll
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Service\obj\Debug\TXShop.Service.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Service\bin\Debug\EntityFramework.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.Service\bin\Debug\EntityFramework.xml

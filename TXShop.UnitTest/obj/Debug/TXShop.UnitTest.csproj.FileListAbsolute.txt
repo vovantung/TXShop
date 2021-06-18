@@ -92,3 +92,5 @@ C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.UnitTest
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.UnitTest\obj\Debug\TXShop.UnitTest.csproj.CopyComplete
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.UnitTest\obj\Debug\TXShop.UnitTest.dll
 C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.UnitTest\obj\Debug\TXShop.UnitTest.pdb
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Vo Van Tung\Desktop\ASP.NET\GitVisualStudioProfestional\TXShop.UnitTest\bin\Debug\EntityFramework.xml

@@ -55,6 +55,11 @@
     <Compile Include="Adstract\IAuditable.cs" />
     <Compile Include="Models\Menu.cs" />
     <Compile Include="Models\MenuGroup.cs" />
+    <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\OrderDetail.cs" />
+    <Compile Include="Models\Page.cs" />
+    <Compile Include="Models\Post.cs" />
+    <Compile Include="Models\PostCategory.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\ProductCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
